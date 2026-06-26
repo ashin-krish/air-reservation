@@ -1,1 +1,10 @@
-/cd
+# Compiled classes
+bin/
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# Logs
+*.log
